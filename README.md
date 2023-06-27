@@ -22,6 +22,7 @@ Y-combinator's YouTube content is invaluable, and their expertise has made it a 
 
 ## Example
 ![Alt text](example.png)
+
 [PDF Example](./pdfs/How%20to%20Build%20An%20MVP%20%7C%20Startup%20School.pdf)
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
