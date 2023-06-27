@@ -25,7 +25,7 @@ Y-combinator's YouTube content is invaluable, and their expertise has made it a 
 
 [PDF Example](./pdfs/How%20to%20Build%20An%20MVP%20%7C%20Startup%20School.pdf)
 
-[Full PDF Combined Startup School](./pdfs/Startup%20School.pdf)
+[Full PDF Combined Startup School](./Startup%20School.pdf)
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
 - You can replace [Youtube-Transcript-Api](https://pypi.org/project/youtube-transcript-api/) with [Whisper](https://github.com/openai/whisper) if the transcript is not available.
