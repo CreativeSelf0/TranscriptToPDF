@@ -1,7 +1,7 @@
 # YouTube Transcript to Readable PDF Pipeline
 ![Pipeline](image.png)
 ## Overview
-This project aims to convert YouTube transcripts into readable PDF documents with time stamps. The purpose is to provide a convenient way for knowledge seekers to follow along and absorb valuable insights shared by Y-combinator, a content creator known for their exceptional expertise and captivating delivery.
+This project aims to convert YouTube transcripts into readable PDF documents with time stamps. The purpose is to provide a convenient way for knowledge seekers to follow along and absorb valuable insights shared by humanity. For inspiration, I have used Y-combinator as a content creator known for their exceptional expertise and captivating delivery.
 
 ## Motivation
 Y-combinator's YouTube content is invaluable, and their expertise has made it a gem for individuals seeking knowledge. However, consuming video content can sometimes be challenging, especially when referring back to specific points of interest. By converting the transcripts into readable PDFs with time stamps, this project aims to enhance the learning experience and make it easier for users to navigate and reference information.
