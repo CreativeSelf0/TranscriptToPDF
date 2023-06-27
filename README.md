@@ -20,6 +20,8 @@ Y-combinator's YouTube content is invaluable, and their expertise has made it a 
 
 6. **PDF Generation**: The preprocessed transcript is then formatted into a readable PDF document. With the help of [Pypandoc](https://pypi.org/project/pypandoc/)
 
+## Example
+![Alt text](image-1.png)
 
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
